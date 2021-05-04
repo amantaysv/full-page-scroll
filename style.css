@@ -40,32 +40,32 @@
 
 .main__bg:nth-child(1) {
   background-color: #00b460;
-  background-image: url(./images/1.png);
+  background-image: url(./images/1.webp);
 }
 
 .main__bg:nth-child(2) {
   background-color: #002fff;
-  background-image: url(./images/2.png);
+  background-image: url(./images/2.webp);
 }
 
 .main__bg:nth-child(3) {
   background-color: #566dd4;
-  background-image: url(./images/3.png);
+  background-image: url(./images/3.webp);
 }
 
 .main__bg:nth-child(4) {
   background-color: #d585e9;
-  background-image: url(./images/4.png);
+  background-image: url(./images/4.webp);
 }
 
 .main__bg:nth-child(5) {
   background-color: #32bde7;
-  background-image: url(./images/5.png);
+  background-image: url(./images/5.webp);
 }
 
 .main__bg:nth-child(6) {
   background-color: #ffef5e;
-  background-image: url(./images/6.png);
+  background-image: url(./images/6.webp);
 }
 
 .main__title {
@@ -101,4 +101,3 @@
   font-size: 14vw;
   margin-top: calc(100vh * var(--i));
 }
-/*# sourceMappingURL=style.css.map */
