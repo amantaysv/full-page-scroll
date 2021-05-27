@@ -10,7 +10,7 @@
    height: 100vh;
    overflow: auto;
    scroll-behavior: smooth;
-   scroll-snap-type: mandatory;
+   scroll-snap-type: y mandatory;
 }
 
 .main {
@@ -23,7 +23,7 @@
       align-items: center;
       background: #f00;
       mix-blend-mode: multiply;
-      scroll-snap-align: center;
+      scroll-snap-align: start;
       background-blend-mode: multiply;
       background-position: center;
       background-size: cover;
